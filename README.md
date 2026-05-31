@@ -81,14 +81,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AJAY-4B2&theme=darkhub&no-frame=true&margin-w=12&margin-h=12&column=7" width="100%"/>
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
